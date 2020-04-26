@@ -21,3 +21,7 @@ Tela  de cadastro de uma nova ONG:
 
 Ao efetuar o cadastro a ONG recebe seu ID:
 
+![Captura de tela de 2020-04-26 19-18-28](https://user-images.githubusercontent.com/24936196/80321346-cb3f9a80-87f2-11ea-83ea-ecddbd5ecb9b.png)
+
+
+
