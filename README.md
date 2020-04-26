@@ -24,6 +24,8 @@ Ao efetuar o cadastro a ONG recebe seu ID:
 ![Captura de tela de 2020-04-26 19-18-28](https://user-images.githubusercontent.com/24936196/80321346-cb3f9a80-87f2-11ea-83ea-ecddbd5ecb9b.png)
 
 Apartir do ID a ONG acesso o sistema contendo seus casos, podendo cadastrar seu casos:
+![Captura de tela de 2020-04-26 19-20-16](https://user-images.githubusercontent.com/24936196/80321384-0b9f1880-87f3-11ea-875e-745dc324fb3d.png)
+
 
 
 
