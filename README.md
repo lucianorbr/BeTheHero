@@ -16,3 +16,8 @@ Primeira tela de acesso:
 ![Captura de tela de 2020-04-26 19-10-29](https://user-images.githubusercontent.com/24936196/80321302-5d936e80-87f2-11ea-973a-0f5edebeb85e.png)
 
 Tela  de cadastro de uma nova ONG:
+
+![Captura de tela de 2020-04-26 19-17-01](https://user-images.githubusercontent.com/24936196/80321330-9e8b8300-87f2-11ea-8b19-139c4f759e8d.png)
+
+Ao efetuar o cadastro a ONG recebe seu ID:
+
