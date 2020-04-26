@@ -12,4 +12,7 @@ do proprio código da aplicação.
 
 Abaixo, segue as telas do Frontend:
 
+Primeira tela de acesso:
 ![Captura de tela de 2020-04-26 19-10-29](https://user-images.githubusercontent.com/24936196/80321302-5d936e80-87f2-11ea-973a-0f5edebeb85e.png)
+
+Tela  de cadastro de uma nova ONG:
